@@ -8,5 +8,6 @@ public class Test {
         System.out.println("hell hot-fix");
         System.out.println("master test!");
         System.out.println("hell hot-fix test");
+        System.out.println("hell push test");
     }
 }
